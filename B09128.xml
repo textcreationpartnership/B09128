@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A winding-sheet for the Presbyterian, or, A mite touching the ordination of ministers by Arise Evans.</title>
+            <author>Evans, Arise, b. 1607.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09128</idno>
+            <idno type="STC">Wing E3474A</idno>
+            <idno type="STC">ESTC R176789</idno>
+            <idno type="EEBO-CITATION">62369273</idno>
+            <idno type="OCLC">ocm 62369273</idno>
+            <idno type="VID">187925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187925)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2848:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A winding-sheet for the Presbyterian, or, A mite touching the ordination of ministers by Arise Evans.</title>
+                  <author>Evans, Arise, b. 1607.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by the Author at Mr. Cadelth's in Black Fryars near the Kings Play-House,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1652?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterians --  England --  Early works to 1800.</term>
+               <term>Ordination --  Church of England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187925:1"/>
+            <p>A Winding-Sheet for the PRESBYTERIAN.</p>
+            <p>Or a Mite touching the Ordination of MINISTERS.</p>
+            <p>By ARISE EVANS.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Sold by the Author at Mr. <hi>Cadelth</hi>'s in <hi>Black Fryars.</hi> near the Kings Play-Houſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:187925:2"/>
+            <pb n="3" facs="tcp:187925:2"/>
+            <head>A Mite touching the Ordination of Miniſters;</head>
+            <opener>
+               <salute>Courteous <hi>READERS</hi>
+               </salute>
+            </opener>
+            <p>examine diligently the proofs of Scripture in this little Work, for it tends to the Salvation of your ſouls, bodyes and eſtate.</p>
+            <p>
+               <seg rend="decorInit">M</seg>En and Brethren let me tell you in love: that if your Miniſters were not ordained to the mi<g ref="char:EOLhyphen"/>niſtery by Biſhops, they have not the ſpirit of truth, and ye ought not to hear them, they are not ſent of God, their ordination is nothing, and it will come to nothing, for I ſhall briefly ſhew you by Scripture that your Presbytery (falſly ſo called) have no power from God to ordain Miniſters: neither doe they under<g ref="char:EOLhyphen"/>ſtand the word Presbytery, on which they ground their power, 1 <hi>Tim.</hi> 4.14. which word is Prophets, or Elder Elders, or Elderſhip; for ſo the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifyeth, which word ye have no where elſe in Scri<g ref="char:EOLhyphen"/>pture, but only in 1 <hi>Tim.</hi> 4.14. ye have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: but not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> no where elſe ſave only 1 <hi>Tim.</hi> 4.14. and it means Prophets, as the words going before doth ſufficiently manifeſt it: for ſaith he
+<pb n="4" facs="tcp:187925:3"/>1 <hi>Tim.</hi> 4.14. <hi>neglect not the gift that is in thee: which was given thee by Propheſy, with the laying on of the hands of the Prophets:</hi> and St. <hi>Paul</hi> renders it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>or in Eng<g ref="char:EOLhyphen"/>lish</hi> Elder Elders or Elderſhip, becauſe the Prophets were of a more ancient order then the Apoſtles, for <hi>Enoch</hi> was a Prophet <hi>Iude</hi> 14.15. yet they were now un<g ref="char:EOLhyphen"/>der the Apoſtles or Biſhops, 1 <hi>Cor.</hi> 12.28. <hi>Epheſ.</hi> 4.11. and an Apoſtle and a Biſhop is all one, for Chriſt is called an Apoſtle <hi>Heb.</hi> 3.1. and a Biſhop 1 <hi>Peter</hi> 2.25. and <hi>Iudas</hi> before he fell was a Biſhop <hi>Act.</hi> 1.20. an Apoſtle ſigni<g ref="char:EOLhyphen"/>fies a planter, and a Biſhop ſignifies a Steward or overſeer, he that planteth a Church and looks well to it, is an A<g ref="char:EOLhyphen"/>poſtle and a Biſhop, but to wave that diſcourſe and come forward: there was in the Apoſtles time abundance of Prophets, and they were not ordained of any man, nei<g ref="char:EOLhyphen"/>ther did they ordain any, for God raiſed them in a mira<g ref="char:EOLhyphen"/>culous way, 1 <hi>Sam.</hi> 10.11.12. they had no power to or<g ref="char:EOLhyphen"/>dain Miniſters, that was the work of the Apoſtles and Biſhops; but the Prophets did incourage the Miniſters to go forth and preach, and told them their beſt way, and what Countryes and Cities was dangerous for them to goe into; and them Prophets alwayes ſpake in the name of the holy Ghoſt; ſaying <hi>thus ſaith the holy Ghost Act.</hi> 13.1, 2. <hi>Act.</hi> 16.6, 7. <hi>Act.</hi> 20.23. <hi>Act.</hi> 21.4.10, 11. and St. <hi>Paul</hi> and <hi>Barnabas</hi> was ſent forth to preach by the holy Ghoſt, and the Prophets laid their hand upon them <hi>Act.</hi> 13.1, 2, 3, 4. but it was done above 17. years after St. <hi>Pauls</hi> converſion <hi>Act.</hi> 9.6. <hi>Galat.</hi> 1.17.18. <hi>Galat.</hi> 2.1. <hi>Act.</hi> 9.26.27, 28, 29, 30. <hi>Act.</hi> 11. from verſe 22. to the end of the Chapter, <hi>Act.</hi> 12.25. and if you compare theſe Scri<g ref="char:EOLhyphen"/>ptures above cited one with another, for that is the way to find out the truth 1 <hi>Cor.</hi> 2.13. you ſhall find it to be above 17. years after St. <hi>Paul</hi> began to preach at Da<g ref="char:EOLhyphen"/>maſcus
+<pb n="5" facs="tcp:187925:3"/>
+               <hi>Act.</hi> 9.20, 21, 22. and ſurely St. <hi>Paul</hi> and <hi>Barnabas</hi> having been ſo often with the Apoſtles ſent forth to preach, and received into fellowſhip by them <hi>Galat.</hi> 2.7, 8, 9. were ordained Miniſters long before that time they came to Antioch <hi>Act.</hi> 13.1, 2, 3, 4. and that which the Prophets did to them then: It is not ſaid that they or<g ref="char:EOLhyphen"/>dained them, but it is ſaid that they <hi>Recommended them to the grace of God, Act.</hi> 13.1, 2, 3, 4. <hi>Act.</hi> 14.26. and if ye would have that to be their ordination then Miniſters muſt be often ordained; for St. <hi>Paul</hi> was <hi>Recommended</hi> again <hi>to the grace of God,</hi> by the ſame Prophets that abode at Antioch <hi>Act.</hi> 15.30.40. <hi>Act.</hi> 13.1, 2, 3, 4. and if you compare <hi>Act.</hi> 13.1, 2, 3, 4. with 1 <hi>Tim.</hi> 4.14. you ſhall find that the Prophets propheſied good things concerning <hi>Timothy,</hi> that he ſhould be a good Miniſter and do great matters in converting the world, laying their hands upon him as they ſpake, that was all, and to this agreeth St. <hi>Pauls</hi> charge to him to warfare according to the propheſies, which went before on him, 1 <hi>Tim.</hi> 1.18. but <hi>Timothy</hi> was ordained a Miniſter by St. <hi>Pauls</hi> own hands 2 <hi>Tim.</hi> 1.6. therefore St. <hi>Paul</hi> cals <hi>his own Son,</hi> 1 <hi>Tim.</hi> 1.2. <hi>his dear beloved Son,</hi> 2 <hi>Tim.</hi> 1.2. becauſe none other Miniſter had a hand in the begetting or the ordaining of him to the Miniſtery, but of St. <hi>Paul</hi> himſelf, which ordained <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> as he ordained them twelve, <hi>Act.</hi> 19.6, 7. who were them Miniſters of <hi>Epheſus,</hi> St. <hi>Paul</hi> ſent for to <hi>Miletus Act.</hi> 20.17. and if ye compare 1 <hi>Tim.</hi> 4.14. with 2 <hi>Tim.</hi> 1.6. you ſhall find much difference between the one Text and the other, for ſaith he 2 <hi>Tim.</hi> 1.6. <hi>Stir up the gift of God, which is in thee, by the putting on of my hands;</hi> but ſaith he 1 <hi>Tim.</hi> 4.14. <hi>Neglect not the gift that is in thee, which was given thee by Propheſy with the laying on of the hands of the Prophets,</hi> or Elder Elders or Elderſhip: Mark the
+<pb n="6" facs="tcp:187925:4"/>firſt, he calls the gift of God, and bids Timothy to ſtir it up in him, the ſecond he calls a gift, he doth not call it the gift of God, nor doth he bid <hi>Timothy</hi> ſtir it up in him<g ref="char:EOLhyphen"/>ſelf; but ſaith he neglect not the gift, or <hi>deſpiſe not prophe<g ref="char:EOLhyphen"/>ſyings,</hi> 1 <hi>Theſſal.</hi> 5.20. ſee here St. <hi>Paul</hi> preſſeth upon <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> the gift of God in his ordaining of him to the mi<g ref="char:EOLhyphen"/>niſtery of Ieſus Chriſt, but for the ſayings of the Pro<g ref="char:EOLhyphen"/>phets, he bids him not neglect them or <hi>deſpiſe prophe<g ref="char:EOLhyphen"/>ſyings,</hi> 1 <hi>Tim.</hi> 4.14.1. 1 <hi>Theſſal.</hi> 5.20.21. but to fulfill them, 1 <hi>Tim.</hi> 1.18. as St. <hi>Paul</hi> and <hi>Barnabas</hi> had done, <hi>Act.</hi> 13.1, 2, 3, 4. <hi>Act.</hi> 14.26. <hi>and thence they ſailed to An<g ref="char:EOLhyphen"/>tioch, from whence they had been recommended to the grace of God, for the work which they fulfilled:</hi> and again you may ſee by the Scripture that to commend and to ordain are two ſeveral things, <hi>Act.</hi> 14.23. <hi>and when they had or<g ref="char:EOLhyphen"/>dained them Elders in every Church and had prayed with faſting, they commended them to the Lord on whom they believed:</hi> and theſe Elders ordination was thus, St. <hi>Paul</hi> laid his hands on ſome, and <hi>Barnabas</hi> on the others, as ye ſee, <hi>Act.</hi> 19, 6, 7. for ordination of Miniſters is a ſimilitude of the procreation of Prieſts under the Law, and as thoſe prieſts were baſtards and ſons of whores, that had three or four prieſts to beget them; ſo ſpiritually are thoſe Mini<g ref="char:EOLhyphen"/>ſters baſtards &amp; ſons of whores who had many miniſters hands on them in their ordination, <hi>therefore according to the Scripture as ye have it in the Book of Ordination of Mi<g ref="char:EOLhyphen"/>niſters,</hi> the Lord Biſhop himſelf alone layeth his hands upon the Deacons head at his firſt ordination to the mi<g ref="char:EOLhyphen"/>niſtery, and then he receives the gift of God, and is be<g ref="char:EOLhyphen"/>gotten 1 <hi>Tim.</hi> 1, 2. 2 <hi>Tim.</hi> 1.2.6. <hi>Philem.</hi> 10. <hi>Titus</hi> 1.4. and that which in after times is done to him are but Ceremonies that muſt be uſed by the Lord Biſhop and o<g ref="char:EOLhyphen"/>thers, to prefer him into higher degrees in the miniſtery,
+<pb n="7" facs="tcp:187925:4"/>as there was Ceremonies uſed to the ſons of <hi>Aaron</hi> by the old Law, <hi>Exod.</hi> 40.12, 13, 14, 15. and as a Prieſt by the old Law muſt needs be the ſeed of <hi>Aaron,</hi> elſe no Cere<g ref="char:EOLhyphen"/>mony could make him a Prieſt after the old Law; ſo I ſay now, if a Miniſter as aboveſaid, have not his being on<g ref="char:EOLhyphen"/>ly from a Lord Biſhop at firſt, he cannot be a Miniſter of God, by no means elſe; now you ſee brethren that your Presbytery ordination is a falſe thing, having not the leaſt ſhadow of truth in it, for your Presbytery deny any Pro<g ref="char:EOLhyphen"/>phets to be in our dayes: Therefore they have no right at all to ſhelter themſelves under their ſhadows; if there were any hopes that way as they would perſwade you, from 1 <hi>Tim.</hi> 4.14. but you may ſee by what I have ſpoken, how they deceive themſelves and you, and as their falſe Presbytery ordination came to have an uſurp<g ref="char:EOLhyphen"/>ing viſible power, and being for a time by the ſtrength of <hi>Apollyons</hi> Rebellious bloody ſword of war: ſo it ſhall be utterly null'd and made void by the righteous ſword of the Prince of peace, and he that will favour their way ſhall be deſtroyed for ever.</p>
+            <byline>By <hi>ARISE EVANS.</hi>
+            </byline>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
